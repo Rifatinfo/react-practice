@@ -1,0 +1,35 @@
+{
+    "routes": [
+      {
+        "component": "Home"
+      },
+      {
+        "component": "Teacher"
+      },
+      {
+        "component": "EvaluationCourse"
+      },
+      {
+        "component": "Evaluation"
+      },
+      {
+        "component": "Preregistration"
+      },
+      {
+        "component": "Schedule"
+      },
+      {
+        "component": "Billing"
+      },
+      {
+        "component": "Result"
+      },
+      {
+        "component": "Profile"
+      },
+      {
+        "component": "Logout"
+      }
+    ]
+  }
+  
