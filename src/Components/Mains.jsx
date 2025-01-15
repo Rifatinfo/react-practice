@@ -48,8 +48,8 @@ const Mains = () => {
                 <div className="flex flex-wrap h-12 items-center justify-center text-center gap-1 text-[12px] lg:text-[16px] lg:w-[810px] lg:h-[44px] bg-[#0099cc] nunito text-white lg:font-bold lg:gap-2">
                     {[
                         "Home",
-                        "Teacher",
-                        "EvaluationCourse",
+                        "Teacher Course",
+                        "Evaluation Course",
                         "Evaluation",
                         "Preregistration",
                         "Schedule",
